@@ -10,6 +10,7 @@
 ## 🤔 What is Grease Pencil
 
 Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to generate storyboard images which takes textual inputs and produce image as an output.
+Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> ppt for thorough details,</a> and find the<a href="https://youtu.be/__kPN5Aes3Q/"> explainer video here</a> 
 
 <p align="center">
     <img src="https://i.ibb.co/vx37j3p/flow-diagram.png" alt="Omni chart" />
@@ -19,6 +20,8 @@ Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to g
 <br>
 
 ## 📚 Live Demo Guide
+
+## Find the <a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> Presentation </a> and <a href="https://youtu.be/__kPN5Aes3Q/"> explainer video</a> here
 
 ### <a href="http://grease-pencil-1.herokuapp.com/"> Log in:</a>
 - Username - demo
@@ -30,9 +33,9 @@ Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to g
 
 <br>
 
-# 📚 Table of Contents
+## 📚 Table of Contents
 
-###  How  Azure Helping Grease Pencil
+###  How Azure Helping Grease Pencil
 
 <details>
 <summary>Read more...</summary>
@@ -77,10 +80,11 @@ Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to g
 <details>
 <summary>Used tools</summary>
 
+-React
 - HTML5
-- Boot strap
-- css
-- Java script
+- BootStrap
+- CSS
+- Java Script
   </details>
 
 ## 🙌🏼 Reference
