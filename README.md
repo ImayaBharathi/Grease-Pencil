@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Grease Pencil</h1>
 <p align="center">An Intelligent Story Board Generator</p>
-<p align="center"><a href="http://grease-pencil-1.herokuapp.com/">Try live demo</a></p>
+<p align="center"><a href="https://gpdemo.azurewebsites.net/">Try live demo</a></p>
 
 ## 🤔 What is Grease Pencil
 
