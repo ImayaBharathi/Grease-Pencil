@@ -20,7 +20,7 @@ Sample Script for drag & drop page
 - Use this <a href="http://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">strangers things ep1 script (upload this script in drag & drop page)</a> for testing
 
 ### Story Time line page:</a>
-- From your uploaded script each & every frames will be extracted sequentialy 
+- From your uploaded script each & every frames will be extracted sequentially 
 - Without exception, every frame will have the following
     - BG - Where a scene takes place
     - Character - Who take's place in the scene
