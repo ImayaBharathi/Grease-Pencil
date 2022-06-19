@@ -23,7 +23,7 @@ Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9
 
 ## Find the <a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> Presentation </a> and <a href="https://youtu.be/__kPN5Aes3Q/"> explainer video</a> here
 
-### <a href="http://grease-pencil-1.herokuapp.com/"> Log in:</a>
+### <a href="[https://gpdemo.azurewebsites.net/"> Log in:</a>
 - Username - demo
 - Password - demo
 
