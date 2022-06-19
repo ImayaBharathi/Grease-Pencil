@@ -28,7 +28,7 @@ Sample Script for drag & drop page
     - C.Movement - How camera move
     - Description - What takes place in the scene
 - These frame details will be generated as storyboard image once you click generate storyboard, before that
-- Scroll down to end and check the frames represented correctly
+- Scroll down to the end and check the frames for any corrections/Edits
 - If you have any changes, click the **edit icon** in top right on the frame
 - To save the changes click on **update** button else **cancel** 
 - After inspecting every frame click on **Generate Storyboard**  
