@@ -10,8 +10,8 @@
 ## 📚 Live Demo Guide
 
 ### <a href="https://gpdemo.azurewebsites.net/"> Log in creds:</a>
-- Username - demo
-- Password - demo
+- Username = demo
+- Password = demo
 
 ### <a href="https://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">Sample Script:</a>
 - Use General format script in pdf or
