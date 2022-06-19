@@ -9,7 +9,7 @@
 
 ## 📚 Live Demo Guide
 
-### <a href="https://gpdemo.azurewebsites.net/"> Log in:</a>
+### <a href="https://gpdemo.azurewebsites.net/"> Log in creds:</a>
 - Username - demo
 - Password - demo
 
