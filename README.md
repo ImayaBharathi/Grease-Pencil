@@ -35,7 +35,7 @@ Sample Script for drag & drop page
 <br>
 
 ## 🤔 What is Grease Pencil
-
+### <a href="http://20.119.43.60:3000/">Try our baby AI Demo</a>
 ## Find the <a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> Presentation </a> and <a href="https://youtu.be/__kPN5Aes3Q/"> explainer video</a> here
 
 Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to generate storyboard images which takes textual inputs and produce image as an output.
