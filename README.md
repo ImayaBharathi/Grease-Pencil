@@ -20,11 +20,18 @@ Sample Script for drag & drop page
 - Use this <a href="http://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">strangers things ep1 script (upload this script in drag & drop page)</a> for testing
 
 ### Story Time line page:</a>
-- From your uploaded script each & every frames will be extracted
+- From your uploaded script each & every frames will be extracted sequentialy 
 - Without exception, every frame will have the following
-   ~ BG
-   ~ Charecter
-   ~
+    - BG - Where a scene takes place
+    - Character - Who take's place in the scene
+    - C.Shot - How camera works 
+    - C.Movement - How camera move
+    - Description - What takes place in the scene
+- These frame details will be generated as storyboard image
+- Scroll down to end and check the frames represented correctly
+- If you have any changes, click the **edit icon** in top right on the frame
+- To save the changes click on **update** button else **cancel** 
+- After inspecting every frame click on **Generate Storyboard**  
 <br>
 
 ## 🤔 What is Grease Pencil
