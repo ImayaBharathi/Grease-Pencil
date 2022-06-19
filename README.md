@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://strapi.io">
+  <a href="https://gpdemo.azurewebsites.net/">
     <img src="https://i.ibb.co/rF4cHpr/g-logo-01.png" width="318px" alt="Strapi logo" />
   </a>
 </p>
