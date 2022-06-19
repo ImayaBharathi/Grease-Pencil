@@ -9,14 +9,19 @@
 
 ## 📚 Live Demo Guide
 
-### <a href="https://gpdemo.azurewebsites.net/"> Log in creds:</a>
+### <a href="https://gpdemo.azurewebsites.net/"> Log in page:</a>
+Login Credentials
 - Username = demo
 - Password = demo
 
-### <a href="https://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">Sample Script for drag & drop page:</a>
+### <a href="https://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">Drag & Drop page:</a>
+Sample Script for drag & drop page
 - Use **General format script in pdf** or
 - Use this <a href="http://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">strangers things ep1 script (upload this script in drag & drop page)</a> for testing
 
+### Story Time line page:</a>
+- From your uploaded script, Storyboard frames are extracted in mere 100's 
+- 
 <br>
 
 ## 🤔 What is Grease Pencil
