@@ -7,18 +7,6 @@
 <p align="center">An Intelligent Story Board Generator</p>
 <p align="center"><a href="https://gpdemo.azurewebsites.net/">Try live demo</a></p>
 
-## 🤔 What is Grease Pencil
-
-Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to generate storyboard images which takes textual inputs and produce image as an output.
-Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> ppt for thorough details,</a> and find the<a href="https://youtu.be/__kPN5Aes3Q/"> explainer video here</a> 
-
-<p align="center">
-    <img src="https://i.ibb.co/vx37j3p/flow-diagram.png" alt="Omni chart" />
-  </a>
-</p>
-
-<br>
-
 ## 📚 Live Demo Guide
 
 ## Find the <a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> Presentation </a> and <a href="https://youtu.be/__kPN5Aes3Q/"> explainer video</a> here
@@ -32,6 +20,20 @@ Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9
 - Use this <a href="http://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">strangers things ep1 script</a> for testing
 
 <br>
+
+## 🤔 What is Grease Pencil
+
+Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to generate storyboard images which takes textual inputs and produce image as an output.
+Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> ppt for thorough details,</a> and find the<a href="https://youtu.be/__kPN5Aes3Q/"> explainer video here</a> 
+
+<p align="center">
+    <img src="https://i.ibb.co/vx37j3p/flow-diagram.png" alt="Omni chart" />
+  </a>
+</p>
+
+<br>
+
+
 
 ## 📚 Table of Contents
 
