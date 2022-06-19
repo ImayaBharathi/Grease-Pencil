@@ -13,9 +13,9 @@
 - Username = demo
 - Password = demo
 
-### <a href="https://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">Sample Script:</a>
-- Use General format script in pdf or
-- Use this <a href="http://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">strangers things ep1 script</a> for testing
+### <a href="https://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">Sample Script for drag & drop page:</a>
+- Use **General format script in pdf** or
+- Use this <a href="http://www.dailyscript.com/scripts/STRANGER-THINGS-1x01-The-Vanishing-of-Will-Byers-2ND-PINK.pdf">strangers things ep1 script (upload this script in drag & drop page)</a> for testing
 
 <br>
 
