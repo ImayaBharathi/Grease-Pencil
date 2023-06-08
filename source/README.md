@@ -43,7 +43,7 @@ Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to g
 Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> ppt for thorough details,</a> and find the<a href="https://youtu.be/__kPN5Aes3Q/"> explainer video here</a> 
 
 <p align="center">
-    <img src="https://ibb.co/z87NCMZ" alt="Omni chart" />
+    <img src="<a href="https://ibb.co/z87NCMZ"><img src="https://i.ibb.co/HNxXRSq/Project-Omni-Chartomni-chart.png" alt="Project-Omni-Chartomni-chart" border="0"></a>"
   </a>
 </p>
 
