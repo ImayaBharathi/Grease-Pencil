@@ -43,7 +43,7 @@ Grease pencil is an Intelligent Substitute for storyboard, which uses to AI to g
 Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9pxoM6lZFUyLO6THKVzh1Wdu7U8U-J7RKk/edit?usp=sharing/"> ppt for thorough details,</a> and find the<a href="https://youtu.be/__kPN5Aes3Q/"> explainer video here</a> 
 
 <p align="center">
-    <img src="https://i.ibb.co/vx37j3p/flow-diagram.png" alt="Omni chart" />
+    <img src="https://ibb.co/z87NCMZ" alt="Omni chart" />
   </a>
 </p>
 
@@ -53,35 +53,6 @@ Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9
 
 ## 📚 Table of Contents
 
-###  How Azure Helping Grease Pencil
-
-<details>
-<summary>Read more...</summary>
-
-#### **Storage Layer:**
-
--   Azure Blob Storage - for dataset [only images]
-    
--   Azure Cosmos DB (SQL API) - for dataset [text prompts for the given images]
-    
--   Azure Files - to hold user/client scripts
-    
--   Azure Database for MySQL - holding User Details, User Activity, Invoicing and other relational data of the Grease Pencil
- #### **Code Pipeline:**
--   Azure Repos - Source code maintenance and version control
-    
--   Azure Pipeline - To Build a docker image from the repository upon a commit in master branch
-    
--   Container Registry - To Store the built docker images
-    
--   App Service - To host the application from a docker image with zero downtime
- #### **MLOps:**
- -   Azure Data Factory - To process the data and stage for training upon new data or code check-ins
-    
--   Azure ML Workspace - To run a training job and store the model in Model Registry
-  </details>
-
-
 ### 📦 Backend
 
 <details>
@@ -90,6 +61,9 @@ Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9
 #### Python
 
 - Flask
+- Fastapi
+- MongoDB
+- SSO
 
   </details>
 
@@ -98,11 +72,9 @@ Please go through the<a href="https://docs.google.com/presentation/d/1kOXX6n1mg9
 <details>
 <summary>Used tools</summary>
 
--React
-- HTML5
-- BootStrap
-- CSS
-- Java Script
+- React
+- Material UI
+- Type Script
   </details>
 
 ## 🙌🏼 Reference
